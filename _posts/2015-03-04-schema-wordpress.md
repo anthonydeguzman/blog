@@ -12,7 +12,7 @@ categories:
 ---
 Since the Google Hummingbird update in 2013, Google has changed their ranking algorithms from simple/phrase-type keywords &#8211; to entity and query-like ones.
 
-In the words of <a href="http://themoralconcept.net" target="_blank" rel="nofollow">Josh Bachynski</a>, SEO is all about ranking _things, not strings. _
+In the words of <a href="http://themoralconcept.net" target="_blank" rel="nofollow">Josh Bachynski</a>, SEO is all about ranking things, not strings.
 
 As a result, Schema markup has never been more important for on-page optimization. However, despite being simple to understand, and easy to implement on a simple, static HTML website &#8212;  applying Schema markup to a common CMS, such as WordPress, can be a bit of a nightmare.
 
@@ -30,7 +30,7 @@ It&#8217;s not much of a _before and after_, so you&#8217;ll have to take this 
 
 I recently published an article (my first one, in fact) targeting the keyword _indeed resume search_, but submitted it fully packed with Schema markup before-hand. The post has little to no backlinks, and has maybe 4-5 social shares.
 
-It&#8217;s not a first-place ranking, but it&#8217;s definitely on the first page. It&#8217;s good to note that the competition isn&#8217;t so bad, since I&#8217;m targeting Google Canada &#8212;  although it doesn&#8217;t help that I&#8217;m still competing with Indeed&#8217;s own domain, as well as about.com.<figure id="attachment_179" style="width: 660px" class="wp-caption alignnone"
+It&#8217;s not a first-place ranking, but it&#8217;s definitely on the first page. It&#8217;s good to note that the competition isn&#8217;t so bad, since I&#8217;m targeting Google Canada &#8212;  although it doesn&#8217;t help that I&#8217;m still competing with Indeed&#8217;s own domain, as well as about.com.
 
 <amp-img width="660" height="370" alt="how to add schema" layout="responsive" src="/blog/assets/wp-content/uploads/2015/03/schema-seo-wordpress.jpg"></amp-img>
 
